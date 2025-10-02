@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "build": "npx tailwindcss -i ./src/index.css -o ./dist/output.css"
+    "build": "npx tailwindcss -i ./src/index.css -o ./src/output.css"
   },
   "dependencies": {
     "@tailwindcss/cli": "^4.1.13",
